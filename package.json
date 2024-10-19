@@ -1,0 +1,22 @@
+{
+  "name": "satella-tn",
+  "displayName": "satella-tn",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "/assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Satella",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Satella-color-theme.json"
+      }
+    ]
+  }
+}
