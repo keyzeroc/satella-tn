@@ -3,6 +3,7 @@
   "displayName": "satella-tn",
   "description": "",
   "version": "0.0.1",
+  "publisher": "keyzeroc",
   "engines": {
     "vscode": "^1.94.0"
   },
